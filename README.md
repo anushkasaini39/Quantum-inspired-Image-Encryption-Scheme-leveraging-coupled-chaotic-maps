@@ -24,3 +24,5 @@ our framework achieved--
 |                     | UACI                 | 33.4875%        | -               |
 | Statistical Analysis| Entropy              | 7.9972          | ~6  |
 |                     | MSE                  | 11316.65        | ~0              |
+
+Okay so, don't forget to appy our encryption framework in your next big thing .. ;)
